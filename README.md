@@ -3,4 +3,4 @@ github guide
 
 Hello GitHub!
 
-language = Japanese
+language = japanese
